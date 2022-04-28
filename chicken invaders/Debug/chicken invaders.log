@@ -1,0 +1,27 @@
+﻿  Source.cpp
+c:\users\ramon\desktop\program\chicken invaders\chicken invaders\source.cpp(19): warning C4309: '=': truncation of constant value
+c:\users\ramon\desktop\program\chicken invaders\chicken invaders\source.cpp(22): warning C4309: '=': truncation of constant value
+c:\users\ramon\desktop\program\chicken invaders\chicken invaders\source.cpp(31): warning C4309: '=': truncation of constant value
+c:\users\ramon\desktop\program\chicken invaders\chicken invaders\source.cpp(32): warning C4309: '=': truncation of constant value
+c:\users\ramon\desktop\program\chicken invaders\chicken invaders\source.cpp(33): warning C4309: '=': truncation of constant value
+c:\users\ramon\desktop\program\chicken invaders\chicken invaders\source.cpp(34): warning C4309: '=': truncation of constant value
+c:\users\ramon\desktop\program\chicken invaders\chicken invaders\source.cpp(53): warning C4309: '=': truncation of constant value
+c:\users\ramon\desktop\program\chicken invaders\chicken invaders\source.cpp(55): warning C4309: '=': truncation of constant value
+c:\users\ramon\desktop\program\chicken invaders\chicken invaders\source.cpp(56): warning C4309: '=': truncation of constant value
+c:\users\ramon\desktop\program\chicken invaders\chicken invaders\source.cpp(58): warning C4309: '=': truncation of constant value
+c:\users\ramon\desktop\program\chicken invaders\chicken invaders\source.cpp(61): warning C4309: '=': truncation of constant value
+c:\users\ramon\desktop\program\chicken invaders\chicken invaders\source.cpp(62): warning C4309: '=': truncation of constant value
+c:\users\ramon\desktop\program\chicken invaders\chicken invaders\source.cpp(63): warning C4309: '=': truncation of constant value
+c:\users\ramon\desktop\program\chicken invaders\chicken invaders\source.cpp(64): warning C4309: '=': truncation of constant value
+c:\users\ramon\desktop\program\chicken invaders\chicken invaders\source.cpp(67): warning C4309: '=': truncation of constant value
+c:\users\ramon\desktop\program\chicken invaders\chicken invaders\source.cpp(69): warning C4309: '=': truncation of constant value
+c:\users\ramon\desktop\program\chicken invaders\chicken invaders\source.cpp(70): warning C4309: '=': truncation of constant value
+c:\users\ramon\desktop\program\chicken invaders\chicken invaders\source.cpp(72): warning C4309: '=': truncation of constant value
+c:\users\ramon\desktop\program\chicken invaders\chicken invaders\source.cpp(301): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\users\ramon\desktop\program\chicken invaders\chicken invaders\source.cpp(369): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getche. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(455): note: see declaration of 'getche'
+c:\users\ramon\desktop\program\chicken invaders\chicken invaders\source.cpp(404): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+  chicken invaders.vcxproj -> C:\Users\ramon\Desktop\program\chicken invaders\Debug\chicken invaders.exe
+  chicken invaders.vcxproj -> C:\Users\ramon\Desktop\program\chicken invaders\Debug\chicken invaders.pdb (Full PDB)
